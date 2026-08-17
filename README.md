@@ -1,2 +1,2 @@
-# Movie-Recommendation-App
+# Movie-Recommendation
 Project alpha
